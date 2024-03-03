@@ -1,0 +1,9 @@
+[package]
+name = "kebabmaneater/chain-table"
+description = "Chainable table methods. Made for myself, which means some of the code is of supbar quality. Use at your own risk."
+version = "0.1.0"
+license = "MIT"
+authors = ["Kebabmaneater", "Stephen Leitnick"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["src", "default.project.json"]
